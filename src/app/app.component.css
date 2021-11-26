@@ -1,0 +1,25 @@
+.buttonRow{
+  display: flex;
+}
+button{
+ width: 60px;
+  height:60px;
+}
+.spe{
+  background-color: darkorange;
+}
+.calc{
+  background-color: cornsilk;
+}
+.all{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.screen{
+  border: 1px solid black;
+}
+textarea{
+  width: 300px;
+}
